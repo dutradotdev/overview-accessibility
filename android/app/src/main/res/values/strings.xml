@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">accessibility</string>
+    <string name="button_description" translatable="false">Botão</string>
+</resources>
